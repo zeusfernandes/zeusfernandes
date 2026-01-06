@@ -11,11 +11,12 @@ Outside of work and studies, I enjoy **music** and personal development.
 ## 🛠️ Skills
 
 ### **Data & Analytics**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/> Python  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="30" height="30"/> SQL  
-<img src="https://img.shields.io/badge/Power%20BI-FFB900?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" alt="Power BI"/> Power BI  
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> Excel  
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> Tableau  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-FFB900?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+
 
 ---
 

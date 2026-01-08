@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Zeus Mark Fernandes
+# Hey there 👋, I'm Zeus Fernandes
 
 ## 👋 About Me
 

@@ -2,9 +2,9 @@
 
 ## 👋 About Me
 
-- 🌍 **Location:** Rennes,France ||Goa, India
+- 🌍 **Location:** Paris,France || Goa, India
   
-- 💼 **Experience:** 3+ years in **Data Analysis** & **Business Intelligence**
+- 💼 **Experience:** 4 years experience in **Data Analysis** & **Business Intelligence**
   
 - 🎓 **Education:** Currently pursuing **Master’s in Data & Business Analytics at Rennes School of Business in France**
   
